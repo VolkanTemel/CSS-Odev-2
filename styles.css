@@ -1,0 +1,64 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  text-decoration: none;
+  color: #222;
+}
+
+.navbar-items {
+  width: 32px;
+  margin: 10px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.nav {
+  float: left;
+  width: 100%;
+  margin-bottom: 8%;
+}
+
+.navbar {
+  float: right;
+  margin-right: 20px;
+}
+
+.appbutton {
+  width: 20px;
+}
+
+a:visited {
+  color: #222;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: rgb(121, 121, 121);
+}
+
+.buttons {
+  width: 250px;
+}
+
+.body-items {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+button {
+  border: 1px #f2f2f2;
+  color: #5f6368;
+  height: 36px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+input {
+  width: 584px;
+  height: 40px;
+  border-style: solid;
+  border-radius: 25px;
+  border-color: #5f6368;
+}
